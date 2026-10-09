@@ -1,0 +1,20 @@
+{
+    "betas": {
+        "QTOP": 1.0,
+        "QLD": 2.0,
+        "BOXX": 0.0
+    },
+    "shares": {
+        "QTOP": 1888,
+        "QLD": 422,
+        "BOXX": 425
+    },
+    "new_capital_usd": 500.0,
+    "new_capital_hkd": 0.0,
+    "rebalance_count": 0,
+    "initial_portfolio_hkd": 1318011.245487,
+    "benchmark_base_prices": {
+        "QQQ": 754.09,
+        "SPY": 775.15
+    }
+}
